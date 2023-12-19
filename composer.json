@@ -1,5 +1,5 @@
 {
-    "name": "langleyfoxall/laravel-nist-password-rules",
+    "name": "dilneiss/laravel-nist-password-rules",
     "description": "🔒 Provides Laravel validation rules that follow the password related recommendations found in NIST Special Publication 800-63B.",
     "type": "library",
     "license": "LGPL-3.0-only",
